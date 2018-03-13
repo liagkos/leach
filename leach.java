@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class Exercise5 {
+public class Leach {
 
     // Node attributes
     private static class nodeDetails {
